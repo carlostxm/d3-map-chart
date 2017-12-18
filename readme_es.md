@@ -1,8 +1,9 @@
-# D3 MAP CHART
+# D3 MAP CHART (_Work in progress_)
 
 En este ejemplo vamos a crear un pequeño componente que mostrará información geolocalizada usando React y D3.
 
-En esta primera versión tomaremos información _hardcodeada_ y la representaremos en el mapa.
+El componente puede ser visualizado accediendo al siguiente enlace:
+https://carlostxm.github.io/d3-map-chart/
 
 # Instalación de las dependencias de D3
 ```
