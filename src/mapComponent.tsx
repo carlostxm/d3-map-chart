@@ -7,7 +7,7 @@ interface State {
   geoData: feature[];
 }
 
-const featuresUrl = 'https://martingonzalez.net/es-municipalities.v1.json';
+const featuresUrl = 'https://gist.githubusercontent.com/carlostxm/2f2382656751ae6d85fc35fff118b921/raw/11dd9cc5e122d315b921618f3ce08b46c646df17/spain-municipalities.json';
 
 export class MapComponent extends React.Component<{}, State> {
 
